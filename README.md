@@ -23,4 +23,5 @@ When you log in as a student, you get taken to the "Student Information" screen 
 When you log in as an admin, you get taken to the "Admin Panel" screen where you have elevated priviledges and you have access to adding users, seeing a list of all students as well as double clicking and accessing every students "Student Information" screen. As an admin, you can also generate reports.
 
 # Generating Reports
-Admins can generate a report of all the student's current hours. This report will be generated as a pdf and saved on the computer as "[month]-[day]-[year]-FBLA-Hours-Report.
+Admins can generate a report of all the student's current hours. This report will be generated as a pdf and saved on the computer as "[month]-[day]-[year]-FBLA-Hours-Report.pdf" and will be in the same directory that the app is in.
+Ex.: 2-12-2020-FBLA-Hours-Report.pdf in directory C:\Users\eddyj\Desktop\FBLA App\
