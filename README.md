@@ -23,4 +23,4 @@ When you log in as a student, you get taken to the "Student Information" screen 
 When you log in as an admin, you get taken to the "Admin Panel" screen where you have elevated priviledges and you have access to adding users, seeing a list of all students as well as double clicking and accessing every students "Student Information" screen. As an admin, you can also generate reports.
 
 # Generating Reports
-Admins can generate a weekly or monthly report of all the student's hours and all the changes made in that week or month. By selecting the radio buttons above the "Generate Report" button, the admin can choose whether to generate a weekly report or a monthly report. All the changes made are stored in a local file called "log.txt" and are imported at the time of generation.
+Admins can generate a report of all the student's current hours. This report will be generated as a pdf and saved on the computer as "[month]-[day]-[year]-FBLA-Hours-Report.
